@@ -6,7 +6,8 @@
 * Email: sl1rt@mail.ru
 
 ## About 
-I like to create web-sites and interfaces.
+I'm 32 years old self-educated web-site developer. I like to create web-sites and interfaces. 
+Currently try React JS.
 
 ## Skillset
 * ⭐⭐⭐⭐⭐ HTML5 + Accessibility
